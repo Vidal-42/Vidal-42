@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, me chamo Letícia Vidal 👾🖖
 
-<!--
-**Vidal-42/Vidal-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente graduanda em **Ciência de Dados pelo Centro Universitário Internacional (UNINTER)**, sou movida pela interseção entre a  Engenharia de Dados e Qualidade de Software.
 
-Here are some ideas to get you started:
+Minha trajetória técnica passa por **Data Engineering & Analytics** e atualmente, foco meu aprofundamento em **Quality Engineering (QE)**, onde aplico uma visão crítica: a qualidade de um software começa no planejamento e na integridade dos seus dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Foco Técnico
+Estou explorando o ciclo de vida de testes e entregas em ambientes ágeis:
+
+* **Testes de API:** Validação de contratos, segurança e performance (Postman/REST).
+* **Gestão de Qualidade:** Planejamento estratégico, escrita de casos de teste e gestão de *issues*.
+* **Cultura Ágil:** Atuação prática em metodologias ágeis e melhoria contínua de processos.
+
+### Background Técnico & Dados
+* **Linguagens:** Python, C++, JavaScript, SQL e Linux.
+* **Ferramentas:** Linux, Git,GitHub, Visual Studio, Postman, Jira e Confluence.
+
+---
+
+### Além dos códigos
+Quando estou offline (Ou quase isso), provavelmente estou:
+* 📚 Lendo HQs e livros (**Senhor dos Anéis**, **Código Limpo: Habilidades Práticas do Agile Software** **Batman**).
+* 🎮 Jogando **Zelda** ou **Roblox**.
+* 🎸 Tocando violão ou criando arte digital.
+
+> *"Que a Força dos códigos esteja com você!" :)*
+
+---
+
+### Vamos nos conectar? :)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([SEU_LINK_AQUI](https://www.linkedin.com/in/leticiavidal42?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
