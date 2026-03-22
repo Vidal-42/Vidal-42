@@ -13,9 +13,9 @@ Estou explorando o ciclo de vida de testes e entregas em ambientes ágeis:
 * **Gestão de Qualidade:** Planejamento estratégico, escrita de casos de teste e gestão de *issues*.
 * **Cultura Ágil:** Atuação prática em metodologias ágeis e melhoria contínua de processos.
 
-### Background Técnico & Dados
-* **Linguagens:** Python, C++, JavaScript, SQL e Linux.
-* **Ferramentas:** Linux, Git,GitHub, Visual Studio, Postman, Jira e Confluence.
+### Background Técnico 
+* **Linguagens:** Python, C++, Robot Framework, SQL, JavaScript.
+* **Ferramentas:** Linux, Git, GitHub, Visual Studio, Postman, Jira e Confluence.
 
 ---
 
